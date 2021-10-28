@@ -1,1 +1,2 @@
 # Rejestr
+# By Patryk Wysocki
